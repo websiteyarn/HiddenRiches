@@ -1,6 +1,7 @@
 # The Hidden Riches
 
-![The Hidden Riches]()
+![The Hidden Riches](https://github.com/websiteyarn/HiddenRiches/blob/main/HiddenRiches_prev1.png)
+![The Hidden Riches](https://github.com/websiteyarn/HiddenRiches/blob/main/HiddenRiches_prev2.png)
 
 ## Overview
 
